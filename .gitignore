@@ -1,0 +1,18 @@
+# Ignore simulation files
+*.wdb
+*.log
+*.jou
+*.xsim
+*.pb
+
+# Ignore Vivado generated files
+*.runs/
+*.cache/
+*.hw/
+*.xpr
+*.ip_user_files/
+*.sim/
+*.bit
+
+# Ignore temporary files
+*.tmp
